@@ -1,0 +1,1 @@
+nav a:hover{color:#ff0;background-color:#00f}nav a:active{color:green}nav a{padding:5px 10px;text-decoration:none;margin-top:10px;display:inline-block;background-color:#eee}a:link,nav a:visited{color:pink}button:hover{background-color:purple}button:disabled{background-color:#eee;color:#aaa;cursor:auto}
